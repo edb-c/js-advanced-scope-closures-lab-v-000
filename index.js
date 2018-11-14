@@ -3,9 +3,11 @@
 //returns a function ‣
 //takes an argument of blockRange which is then used to calculate if something is within range ‣
 //returns when something is out of range ‣
+
 //produceTipCalculator
 //returns a function ‣
 //configures the percentage tip returned ‣
+
 //createDriver
 //returns a class that allows us to create a driver with a name attribute ‣
 //increments the driverId each time a driver is created
